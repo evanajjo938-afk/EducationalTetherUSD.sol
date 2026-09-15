@@ -1,0 +1,19 @@
+{
+  "name": "EducationalTetherUSD",
+  "timestamp": "2026-09-15T00:00:00.000+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x3e09592fe90201329534879349933b4665680166",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/evanajjo938-afk/token-list/main/logo.png"
+    }
+  ]
+}
